@@ -41,7 +41,7 @@ class FedexTrackRequest(FedexBaseService):
         # Holds version info for the VersionId SOAP object.
         self._version_info = {
             'service_id': 'trck',
-            'major': '16',
+            'major': '18',
             'intermediate': '0',
             'minor': '0'
         }
